@@ -25,7 +25,7 @@ jupyter lab
 hate-speech-bert/
 ├── data/                      # put your datasets here (default: ucberkeley-dlab/measuring-hate-speech (HuggingFace))
 ├── notebooks/
-│   └── 00_dashboard_starter.ipynb
+│   └── BERT.ipynb
 ├── src/hate-speech-bert/
 │   ├── __init__.py
 │   └── utils.py
